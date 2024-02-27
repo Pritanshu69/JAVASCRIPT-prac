@@ -6,6 +6,10 @@
 
 //Array,Object,Functions  
 
-const myFuntcion = function(){
-    console.log("I am a function");
-}
+// const myFuntcion = function(){
+    // console.log("I am a function");
+// }
+
+//----------------------------------------------------
+
+//stack(Primitive data type) & heap(non-primitive datatype)
