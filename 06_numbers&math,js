@@ -6,3 +6,9 @@ console.log(balance)
 
 console.log(balance.toString().length); // length of the number in string format
 console.log(balance.toFixed(2));
+
+const otherNumber = 123.8966;
+
+const hundreds = 1000000
+console.log(otherNumber.toPrecision(4));
+console.log(hundreds.toLocaleStringlocaleString('en-In'));
