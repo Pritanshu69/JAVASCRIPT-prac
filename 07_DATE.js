@@ -14,7 +14,7 @@ console.log(myCreatedDate.getTime());
 
 let newDate = new Date()
 newDate.toLocaleString('default', {
-    weekday: "long";
+    weekday: "long"
 })
 
 
