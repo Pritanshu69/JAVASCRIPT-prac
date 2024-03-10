@@ -1,4 +1,4 @@
-let myDate = new Date()
+//let myDate = new Date()
 // console.log(myDate);
 // console.log(myDate.toJSON());
 // console.log(myDate.toLocaleString());
@@ -11,5 +11,10 @@ let myTimeStamp = Date.now();
 
 console.log(myTimeStamp);
 console.log(myCreatedDate.getTime());
+
+let newDate = new Date()
+newDate.toLocaleString('default', {
+    weekday: "long";
+})
 
 
