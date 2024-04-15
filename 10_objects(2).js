@@ -18,3 +18,4 @@ const obj2 = {3: "a", 4: "b"}
 const obj3 = Object.assign({}, obj1, obj2) // {} for object assign suity
 
 console.log(obj3);
+
