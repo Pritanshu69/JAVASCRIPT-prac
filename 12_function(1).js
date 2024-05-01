@@ -16,3 +16,11 @@ function handleObject(anyobject){
 }
 
 handleObject(user);
+
+const myNewArray = [200.400,600,100]
+
+function returnSecondValue(getArray){
+    return getArray[1]
+}
+
+console.log(returnSecondValue(myNewArray));
