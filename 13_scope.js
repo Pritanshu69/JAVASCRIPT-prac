@@ -47,3 +47,4 @@ const addTwo = function(num){    //ANCHOR - another way of writting function som
 
 addTwo(6)
 
+
