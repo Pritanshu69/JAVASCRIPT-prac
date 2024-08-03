@@ -7,4 +7,5 @@ accountPassword = "5454"
 
 // Try to avoid var 
 
+
 console.table([accountEmail , accountId , accountPassword])
